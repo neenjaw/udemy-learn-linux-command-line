@@ -1,0 +1,21 @@
+# Commands
+
+- copy and paste -> `ctrl`+`shift`+`c` and `ctrl`+`shift`+`v`
+- `calendar`
+- `pwd` -> present working directory
+- `ls` -> list
+  - `ls -t`
+  - `ls --size`
+  - `ls -a`
+  - `ls -l`
+  - `ls -r` reverses output
+  - `ls -R` recursive
+- `cd` -> change directory
+- `mkdir` -> make directory
+- `rmdir` -> remove directory
+- `cp [destination] [file]` -> copy file
+- `mv [destination] [file]` -> move file
+- `echo` -> echos whatever
+- `bash [*.sh]` -> run shell script
+- `./[*.sh]` -> runs a shell script with the executable flag
+- `sudo [command]` -> the command will run as an administrator
